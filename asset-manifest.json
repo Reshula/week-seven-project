@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reshula/week-seven-project.git/static/css/main.b8c89c29.css",
+    "main.js": "/Reshula/week-seven-project.git/static/js/main.a61f1bb5.js",
+    "static/js/787.a6f27e27.chunk.js": "/Reshula/week-seven-project.git/static/js/787.a6f27e27.chunk.js",
+    "index.html": "/Reshula/week-seven-project.git/index.html",
+    "main.b8c89c29.css.map": "/Reshula/week-seven-project.git/static/css/main.b8c89c29.css.map",
+    "main.a61f1bb5.js.map": "/Reshula/week-seven-project.git/static/js/main.a61f1bb5.js.map",
+    "787.a6f27e27.chunk.js.map": "/Reshula/week-seven-project.git/static/js/787.a6f27e27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c89c29.css",
+    "static/js/main.a61f1bb5.js"
+  ]
+}
